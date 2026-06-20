@@ -21,3 +21,5 @@ If you see this:
 <img width="463" height="244" alt="image" src="https://github.com/user-attachments/assets/973dad5e-e2a5-4a34-ac18-ff7a1354a2ea" />
 
 Hit "yes", then reopen the project and his "yes" again.
+
+:)
